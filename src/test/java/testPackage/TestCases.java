@@ -6,7 +6,6 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 import org.testng.Assert;
 import org.testng.annotations.*;
-
 import java.time.Duration;
 
 public class TestCases {
